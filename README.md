@@ -1,4 +1,6 @@
 # NewsApp
 
-## Design pattern MVVM
-## Use not Storyboard
+## Model-View-ViewModel (MVVM)
+## Without Storyboard
+
+
